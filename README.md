@@ -1,5 +1,5 @@
 # 👋 Hi Devs!
-## Meu nome é Leandro "ricks" Henriques!
+## Meu nome é Leandro Henriques!
 
     class Ricks:
 
