@@ -9,7 +9,7 @@
             self.cargo = "Estudante"
             self.faculdade = "UNA Aimorés"
             self.curso = "Análise e Desenvolvimento de Sistemas"
-            self.idiomas = ["pt_BR", "en_US"]
+            self.idiomas = ["pt_BR"]
 
         def quem_sou_eu(self):
             print("Tenho 18 anos, moro em Belo Horizonte/MG e sou apaixonado por programação e jogos!")
