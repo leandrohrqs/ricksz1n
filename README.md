@@ -12,7 +12,7 @@
             self.idiomas = ["pt_BR"]
 
         def quem_sou_eu(self):
-            print("Tenho 18 anos, moro em Belo Horizonte/MG e sou apaixonado por programação e jogos!")
+            print("Tenho 19 anos, moro em Belo Horizonte/MG e sou apaixonado por programação e jogos!")
 
     me = Ricks()
     me.quem_sou_eu()
